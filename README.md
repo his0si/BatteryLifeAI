@@ -1,2 +1,2 @@
 # BatteryLifeDL
-2024 summer ummer HoPy project
+2024 summer HoPy project
