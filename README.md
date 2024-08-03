@@ -1,4 +1,4 @@
-# BatteryLifeDL
+# BatteryLifeAI
 2024 summer HoPy project
 
 ![슬라이드1](https://github.com/user-attachments/assets/ffe29a0f-2345-44c0-b8b9-fdae30fe0d81)
